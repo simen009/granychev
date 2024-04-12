@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.granychev.R;
+import com.example.educationalpractice.R;
 
 public class SendAPackage2 extends AppCompatActivity {
 

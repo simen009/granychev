@@ -8,7 +8,8 @@ import android.view.View;
 import android.widget.CompoundButton;
 import android.widget.RadioButton;
 
-import com.example.granychev.R;
+
+import com.example.educationalpractice.R;
 
 public class AddPaymentMethod extends AppCompatActivity {
 

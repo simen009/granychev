@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.example.granychev.R;
+import com.example.educationalpractice.R;
 
 public class ChatRider extends AppCompatActivity {
 

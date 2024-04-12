@@ -9,7 +9,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.View;
 
-import com.example.granychev.R;
+import com.example.educationalpractice.R;
 
 public class Spalsh extends AppCompatActivity {
 

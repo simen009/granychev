@@ -10,7 +10,7 @@ import android.text.TextWatcher;
 import android.view.View;
 import android.widget.EditText;
 
-import com.example.granychev.R;
+import com.example.educationalpractice.R;
 
 public class New_Password extends AppCompatActivity {
 

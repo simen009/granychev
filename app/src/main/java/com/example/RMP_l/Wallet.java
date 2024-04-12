@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.granychev.R;
+import com.example.educationalpractice.R;
 
 public class Wallet extends AppCompatActivity {
 

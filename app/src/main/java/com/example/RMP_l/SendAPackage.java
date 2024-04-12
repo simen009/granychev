@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.example.granychev.R;
+import com.example.educationalpractice.R;
 
 public class SendAPackage extends AppCompatActivity {
 

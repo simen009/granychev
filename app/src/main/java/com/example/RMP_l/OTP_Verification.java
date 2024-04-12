@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.example.granychev.R;
+import com.example.educationalpractice.R;
 
 public class OTP_Verification extends AppCompatActivity {
     private EditText one, two, three, four, five, six;
